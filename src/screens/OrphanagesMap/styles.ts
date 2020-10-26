@@ -14,7 +14,7 @@ export const CalloutContainer = styled.View`
   width: 160px;
   height: 46px;
   padding: 0 16px;
-  background: rgba(255,255,255, 0.8);
+  background: rgba(255,255,255, 1);
   border-radius: 16px;
   justify-content: center;
 `;
